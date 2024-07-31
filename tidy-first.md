@@ -184,7 +184,7 @@ style: |
 
 - Kosten(Software) ~= Kopplung
 
-[Larry Constantine, Edward Yourdon: "Structured Design" (1975)]
+// Larry Constantine, Edward Yourdon: "Structured Design" (1975)
 
 ---
 
@@ -212,7 +212,13 @@ style: |
 # Fazit
 
 - Refactoring des Refactoring
+- Leichtgewichtig
+- Im Idealfall: Kaskadierend
 
+---
+
+<!-- _class: lead -->
+# Vielen Dank!
 
 
 
