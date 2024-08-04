@@ -203,7 +203,14 @@ style: |
 
 ---
 
-# Kopplung und Kohäsion
+# Was ist Kopplung?
+
+- coupled(E1, E2, Δ) ≡ ΔE1 => ΔE2
+- "Zwei Elemente sind in Bezug auf eine bestimmte Änderung gekoppelt, wenn die Änderung des einen Elements notwendigerweise das Ändern des anderen Elements erforderte."
+
+---
+
+# Kohäsion
 
 - Hohe Kohäsion, geringe Kopplung
 
