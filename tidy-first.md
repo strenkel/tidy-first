@@ -144,6 +144,7 @@ style: |
 
 - So klein wie möglich
 - Kein Review notwendig
+- 5 - 60 min
 
 ---
 
