@@ -1,6 +1,6 @@
 # Tidy First?
 
-Folien zu Kent Becks Buch "Tidy First?".
+Vortrags-Folien zu Kent Becks Buch "Tidy First?".
 
 ## Links
 
@@ -11,6 +11,8 @@ Folien zu Kent Becks Buch "Tidy First?".
 - [heise online: "Buchbesprechung: Tidy First?"​](https://www.heise.de/hintergrund/Buchbesprechung-Tidy-First-9763338.html)
 
 - [software-architektur.tv: "Folge 225 - Code Aufräumen (1/2)"](https://software-architektur.tv/2024/07/26/episode225.html)
+
+- [software-architektur.tv: "Folge 226 - Theorie des Aufräumens (2/2)"](https://software-architektur.tv/2024/08/02/episode226.html)
 
 ## Marp
 
